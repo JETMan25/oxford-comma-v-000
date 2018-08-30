@@ -6,4 +6,4 @@ arra[-1.insert(0, "and "]
 else
 array.join(", ")
 end
-
+end
