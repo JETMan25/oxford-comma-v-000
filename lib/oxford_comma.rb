@@ -4,6 +4,6 @@ if array.length == 2
 elsif 2 < array.length
 arra[-1.insert(0, "and "]
 else
-array.join(", ")
 end
+array.join(", ")
 end
